@@ -9,6 +9,7 @@ Currently Salesforce Business Systems Specialist at AMT, The Association For Man
 #### Featured work
 
 - **[salesforce-finance-layer](https://github.com/marilometa/salesforce-finance-layer)**: an interim revenue and billing architecture on Salesforce Enterprise Edition, covering invoicing, collections, revenue recognition schedules and an executive dashboard. Re-authored case study with deployable source and a demo setup script.
+- **[community-conference-kit](https://github.com/marilometa/community-conference-kit)**: a Salesforce data model and playbook for running a community-led conference, from call for papers to sponsors and volunteers.
 - **[salesforce-revenue-recognition](https://github.com/marilometa/salesforce-revenue-recognition)**: a declarative-first reference for what happens after Closed Won: projects, deliverables, payment schedules and cash forecasting.
 
 #### Community
