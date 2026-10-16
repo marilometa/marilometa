@@ -1,4 +1,4 @@
-### Hi, I'm Marilo 👋
+### Marilo Meta
 
 Salesforce MVP and Application Architect, based in Washington, DC.
 
